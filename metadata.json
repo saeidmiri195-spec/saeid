@@ -1,0 +1,5 @@
+{
+  "name": "PDF Chatbot with Gemini",
+  "description": "An intelligent chatbot that answers questions based on the content of an uploaded PDF file, powered by the Gemini API. Upload a document and start a conversation to get insights instantly.",
+  "requestFramePermissions": []
+}
